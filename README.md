@@ -40,6 +40,7 @@ export ANTHROPIC_AUTH_TOKEN="sk-****"
 
 ## 사이트에서 확인할 수 있는 것
 
+- [무료 비용 계산기 (로그인 불필요, 실시간 요금)](https://teapotrouter.com/ko/claude-code-cost-calculator) — 구독 vs 종량 과금 손익분기점 확인
 - **공개 가격** — 모든 모델의 기준 요금과 실제 지불 금액. 로그인 없는 JSON 엔드포인트([`/api/pricing`](https://teapotrouter.com/api/pricing))로 스크립트 비교도 가능
 - **모델별 가격 페이지** — 예: [claude-opus-5-5](https://teapotrouter.com/ko/pricing/claude-opus-5-5)
 - **Claude Code 가격 가이드** — 구독 vs 종량 과금 vs 게이트웨이, 실제 비용 계산 포함: [문서](https://teapotrouter.com/ko/docs/claude-code-pricing)
