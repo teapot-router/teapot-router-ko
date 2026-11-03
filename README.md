@@ -6,7 +6,7 @@
 
 클로드 코드(Claude Code) · Codex CLI · OpenAI SDK 도구를 위한 호스티드 게이트웨이(AI API 중계): 환경변수 두 개만 바꾸면 모든 AI 코딩 도구가 하나의 엔드포인트, 하나의 잔액, 요청별 비용 장부로 연결됩니다.
 
-[시작하기](https://teapotrouter.com/ko/register) · [가격 — 공개, 머신 리더블 JSON](https://teapotrouter.com/api/pricing) · [문서](https://teapotrouter.com/ko/docs)
+[시작하기](https://teapotrouter.com/ko/register) · [가격 — 공개, 머신 리더블 JSON](https://teapotrouter.com/api/pricing) · [문서](https://teapotrouter.com/ko/docs) · [서비스 상태](https://teapotrouter.com/ko/status)
 
 </div>
 
